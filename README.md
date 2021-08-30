@@ -1,2 +1,5 @@
 # operating_system
-Untuk keperluan matkul OS
+Operating System
+Name : Akbar Maliki Haqoni Jati
+Class: A
+Welcome to my github pages, this page is for operating system course. Happy exploring. 
