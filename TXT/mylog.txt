@@ -1,3 +1,4 @@
 #LOG FORMAT
 
-L00 General, etc.
+ZCZC W00 100 Zoom meeting
+ZCZC W00 45  Seting up github pages
