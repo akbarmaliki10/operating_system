@@ -1,4 +1,6 @@
-#LOG FORMAT
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode + Description List
 
 ZCZC W00 100 L00 Zoom meeting
 ZCZC W00 45  L01 Seting up github pages
