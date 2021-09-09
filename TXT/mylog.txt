@@ -12,4 +12,6 @@ ZCZC W01 100 L06 Zoom meeting
 ZCZC W01 60  L06 Assigment 1 first attempt
 ZCZC W01 120 L07 Doing assignment second attempt
 ZCZC W01 30  L08 Watching youtube about SSH and Putty
+ZCZC W01 90  L09 Doing assignment third attempt
 ZCZC W00 30  L71 Feed my cat
+ZCZC W01 30  L72 playing with my cat
