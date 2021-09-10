@@ -1,7 +1,7 @@
 # operating_system
 Operating System
 ***
-[My Log](TXT)
+[My Log](TXT) [Helpful Links](LINKS)
 ***
 Name : Akbar Maliki Haqoni Jati
 
