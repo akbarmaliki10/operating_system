@@ -1,6 +1,8 @@
 # operating_system
 Operating System
-
+***
+[My Log](../os212/TXT)
+***
 Name : Akbar Maliki Haqoni Jati
 
 Class: A
