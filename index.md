@@ -1,7 +1,7 @@
 # operating_system
 Operating System
 ***
-[My Log](.../os212/tree/main/TXT)
+[My Log](.../TXT)
 ***
 Name : Akbar Maliki Haqoni Jati
 
