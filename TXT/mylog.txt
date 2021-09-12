@@ -13,10 +13,11 @@ ZCZC W01 60  L11 Assigment #01
 ZCZC W01 120 L12 Assignment #02
 ZCZC W01 30  L08 Watching youtube about SSH and Putty
 ZCZC W01 90  L13 Assignment #03
-ZCZC W00 30  L71 Feed my cat and treat him
-ZCZC W01 30  L72 playing with my cat
 ZCZC W01 30  L73 doing exercises
 ZCZC W01 60  L14 Assignment #04
 ZCZC W01 15  L15 Assignment #05
 ZCZC W01 30  L16 Assignment #06
 ZCZC W01 45  L17 Assignment #07
+ZCZC W01 60  L18 Assignment #08
+ZCZC W00 30  L71 Feed my cat and treat him
+ZCZC W01 30  L72 playing with my cat
