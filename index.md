@@ -4,7 +4,7 @@
 
 ***
 
-[My Log](TXT) | [Helpful Links](LINKS)
+[My Log](TXT/mylog.txt) | [Helpful Links](LINKS/links.md)
 
 ***
 Name : Akbar Maliki Haqoni Jati
