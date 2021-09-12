@@ -9,10 +9,14 @@ ZCZC W00 30  L03 Study about OS
 ZCZC W00 120 L04 Watch neso academy OS playlist
 ZCZC W00 30  L05 Read OS slides
 ZCZC W01 100 L06 Zoom meeting
-ZCZC W01 60  L06 Assigment 1 first attempt
-ZCZC W01 120 L07 Doing assignment second attempt
+ZCZC W01 60  L11 Assigment #01
+ZCZC W01 120 L12 Assignment #02
 ZCZC W01 30  L08 Watching youtube about SSH and Putty
-ZCZC W01 90  L09 Doing assignment third attempt
+ZCZC W01 90  L13 Assignment #03
 ZCZC W00 30  L71 Feed my cat and treat him
 ZCZC W01 30  L72 playing with my cat
 ZCZC W01 30  L73 doing exercises
+ZCZC W01 60  L14 Assignment #04
+ZCZC W01 15  L15 Assignment #05
+ZCZC W01 30  L16 Assignment #06
+ZCZC W01 45  L17 Assignment #07
