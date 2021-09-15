@@ -9,4 +9,6 @@ permalink: /LINKS/
 3. [Learn REGEX 15 minutes- if you want to understand REGEX basic](https://www.youtube.com/watch?v=bgBWp9EIlMM)
 4. [How to write a bash script - if you want to understand bash script basic](https://youtu.be/F-gskSl4pwQ)
 
+test
+
 [Go Back](index.md)
