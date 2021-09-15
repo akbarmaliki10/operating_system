@@ -4,8 +4,7 @@
 
 ***
 
-[My Log](TXT/mylog.txt) | [Helpful Links](LINKS)
-
+[My Log](TXT/mylog.txt) |  [LINKS]({{ site.baseurl }}/LINKS/)
 ***
 Name : Akbar Maliki Haqoni Jati
 
