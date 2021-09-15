@@ -1,3 +1,7 @@
+---
+permalink: /LINKS/
+---
+
 # Links
 ## Contain page that helpful for my operating system course
 1. [os.vlsm - useful resources for study](https://os.vlsm.org/)
