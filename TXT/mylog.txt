@@ -27,4 +27,5 @@ ZCZC W02 15  L25 Zoom meeting
 ZCZC W02 45  L26 Updating LINKS
 ZCZC W00 30  L71 Feed my cat and treat him
 ZCZC W01 30  L72 playing with my cat
-ZCZC W02 120 L73 Watch movies 
+ZCZC W02 120 L73 Watch movies
+ZCZC W02 120 L74 Playing games 
