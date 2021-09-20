@@ -25,6 +25,8 @@ ZCZC W02 15  L23 Push mypubkey.txt into github
 ZCZC W02 45  L24 Updating myscript.sh and push it
 ZCZC W02 15  L25 Zoom meeting
 ZCZC W02 45  L26 Updating LINKS
+ZCZC W03 75  L30 Assignment
+ZCZC W03 90  L31 Zoom meeting
 ZCZC W00 30  L71 Feed my cat and treat him
 ZCZC W01 30  L72 playing with my cat
 ZCZC W02 120 L73 Watch movies
