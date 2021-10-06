@@ -30,6 +30,9 @@ ZCZC W03 90  L31 Zoom meeting
 ZCZC W04 60  L40 Assignment 1
 ZCZC W04 15  L41 Learn about linux text editor
 ZCZC W04 90  L42 Zoom meeting
+ZCZC W05 120 L50 Assignment 1
+ZCZC W05 70  L51 Zoom meeting
+ZCZC W05 20  L52 Try lowest memory
 ZCZC W00 30  L71 Feed my cat and treat him
 ZCZC W01 30  L72 playing with my cat
 ZCZC W02 120 L73 Watch movies
