@@ -33,8 +33,12 @@ ZCZC W04 90  L42 Zoom meeting
 ZCZC W05 120 L50 Assignment 1
 ZCZC W05 70  L51 Zoom meeting
 ZCZC W05 20  L52 Try lowest memory
+ZCZC W06 60  L60 Assigment 1
+ZCZC W06 90  L61 Zoom meeting
+ZCZC W06 15  L62 Observe fork()
 ZCZC W00 30  L71 Feed my cat and treat him
 ZCZC W01 30  L72 playing with my cat
 ZCZC W02 120 L73 Watch movies
 ZCZC W02 120 L74 Playing games 
 ZCZC W04 120 L75 Watch anime
+ZCZC W06 120 L76 Watching one piece
