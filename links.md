@@ -13,5 +13,6 @@ Many of this link is help me to build this github page, thumbs up for them.
 6. [How to edit with VI Editor](https://www.youtube.com/watch?v=pU2k776i2Zw)
 7. [Learn Pointers in C from GFG - its very good btw](https://www.youtube.com/watch?v=f2i0CnUOniA)
 8. [Learn fork() and exec() from GFG - good for week 6](https://www.youtube.com/watch?v=IFEFVXvjiHY)
+9. [Understanding fork() and exec() in text from GFG](https://www.geeksforgeeks.org/difference-fork-exec/)
 
 [Go Back](index.md)
