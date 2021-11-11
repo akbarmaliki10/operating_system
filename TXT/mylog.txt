@@ -39,6 +39,9 @@ ZCZC W06 15  L62 Observe fork()
 ZCZC W07 45  L63 Finishing Assignment 
 ZCZC W07 90  L64 OS Zoom meeting 
 ZCZC W07 75  L65 Study about OS
+ZCZC W08 120 L66 Doing Assignment
+ZCZC W08 60  L67 GSGS LFS chapter 5 + compiling
+ZCZC W08 60  L68 Zoom meeting
 ZCZC W00 30  L81 Feed my cat and treat him
 ZCZC W01 30  L82 playing with my cat
 ZCZC W02 120 L83 Watch movies
@@ -46,3 +49,6 @@ ZCZC W02 120 L84 Playing games
 ZCZC W04 120 L85 Watch anime
 ZCZC W06 120 L86 Watching one piece
 ZCZC W07 120 L87 Playing games and watch anime
+ZCZC W08 120 L88 Play genshin impact
+ZCZC W08 120 L89 Exercising with my family
+
