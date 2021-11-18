@@ -15,6 +15,6 @@ Many of this link is help me to build this github page, thumbs up for them.
 8. [Learn fork() and exec() from GFG - good for week 6](https://www.youtube.com/watch?v=IFEFVXvjiHY)
 9. [Understanding fork() and exec() in text from GFG](https://www.geeksforgeeks.org/difference-fork-exec/)
 10. [Learn to compile LFS - very useful for W08 assignment](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE)
-
+11. [LFS Chapter 7 - very good for W09](https://www.youtube.com/watch?v=rVj1xtWOtDs&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=11)
 
 [Go Back](index.md)

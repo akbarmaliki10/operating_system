@@ -42,6 +42,9 @@ ZCZC W07 75  L65 Study about OS
 ZCZC W08 120 L66 Doing Assignment
 ZCZC W08 60  L67 GSGS LFS chapter 5 + compiling
 ZCZC W08 60  L68 Zoom meeting
+ZCZC W09 90  L69 Zoom meeting
+ZCZC W09 30  L70 Study OS
+ZCZC W09 60  L71 Watch LFS Chapter 7
 ZCZC W00 30  L81 Feed my cat and treat him
 ZCZC W01 30  L82 playing with my cat
 ZCZC W02 120 L83 Watch movies
@@ -51,4 +54,4 @@ ZCZC W06 120 L86 Watching one piece
 ZCZC W07 120 L87 Playing games and watch anime
 ZCZC W08 120 L88 Play genshin impact
 ZCZC W08 120 L89 Exercising with my family
-
+ZCZC W09 120 L90 Watching one piece
